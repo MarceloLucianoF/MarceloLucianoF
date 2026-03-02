@@ -15,4 +15,4 @@ Atuo na sustentação e melhoria de ambientes Linux críticos, automatizando rot
 
 ## Contato
 - Portfólio: https://portfolio-marcelo-filho.vercel.app/
-- LinkedIn: (seu link)
+- LinkedIn: https://www.linkedin.com/in/marcelo-luciano-filho/
