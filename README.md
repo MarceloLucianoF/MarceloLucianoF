@@ -1,27 +1,39 @@
-# Olá! Eu sou Marcelo Luciano Filho 🚀
+# Marcelo Luciano Filho
 
-**Analista de Infraestrutura & Automação | Linux, Containers & IA Aplicada**
+Infraestrutura Linux • Automação • Docker • PostgreSQL • IA aplicada a operações
 
-Atuo na sustentação de ambientes Linux críticos e na transformação de operações técnicas em sistemas estruturados, documentados e escaláveis. Meu foco é unir infraestrutura, automação (Python/SQL) e Engenharia de Conhecimento (IA) para reduzir SLA e eliminar a dependência operacional.
+Atuo na sustentação de ambientes Linux críticos e na estruturação de operações técnicas por meio de automação (Python/SQL) e organização de conhecimento técnico.
 
-🔗 **[Visite meu Portfólio Interativo](https://portfolio-marcelo-filho.vercel.app/)** para ver estudos de caso detalhados.
+Meu foco é garantir previsibilidade operacional, reduzir tempo de diagnóstico e eliminar dependência de conhecimento informal.
 
-### 🛠️ Minha Stack Principal
+## Principais Competências
 
-* **Infraestrutura & Operações:** Linux (Debian/CentOS), Redes Seguras (OpenVPN, WireGuard, SSH Tunneling), Firewall.
-* **Orquestração & Dados:** Docker, PostgreSQL, RabbitMQ.
-* **Automação & Desenvolvimento:** Python, SQL, Git.
-* **Inovação:** Engenharia de Prompts (Claude/ChatGPT) aplicada à estruturação técnica.
+**Infraestrutura & Operações**
+- Linux (Debian/CentOS)
+- Redes Seguras (OpenVPN, WireGuard, SSH)
+- Docker
+- PostgreSQL
+- RabbitMQ
 
-### 📊 Projetos em Destaque
+**Automação & Desenvolvimento**
+- Python
+- SQL
+- Scripts de diagnóstico
+- Git / Versionamento
 
-1.  **Iniciativa de Padronização com IA:** Automação e consolidação de mais de 16 manuais e 200+ comandos críticos em operação N2, contribuindo para a redução do tempo médio de diagnóstico.
-2.  **Portfólio Serverless:** Aplicação React/Vite na Vercel utilizando FaaS (Functions) para geração dinâmica de PDF (ATS-friendly) via *Single Source of Truth*.
+**Estruturação Técnica & IA**
+- Engenharia de Prompts aplicada à documentação
+- Consolidação de base técnica estruturada
+- Padronização de troubleshooting
 
-### 📫 Como me encontrar
+## Projetos
 
-* 💼 **LinkedIn:** [/in/marcelo-luciano-filho](https://linkedin.com/in/marcelo-luciano-filho)
-* 📧 **E-mail:** [marceloluciano30@gmail.com](mailto:marceloluciano30@gmail.com)
+- **Portfólio Serverless** — Aplicação React/Vite na Vercel com geração dinâmica de PDF (ATS-friendly).
+- **Automação Operacional com Python** — Scripts voltados para diagnóstico e padronização técnica.
+- **Aplicação SaaS (GymUp)** — Plataforma React/Firebase com persistência em tempo real.
 
----
-*"Não apenas resolvo incidentes. Estruturo conhecimento, automatizo processos e garanto previsibilidade."*
+## Contato
+
+- Portfólio: https://portfolio-marcelo-filho.vercel.app/
+- LinkedIn: /in/marcelo-luciano-filho
+- E-mail: marceloluciano30@gmail.com
