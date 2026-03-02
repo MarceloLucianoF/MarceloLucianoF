@@ -1,36 +1,74 @@
-# Marcelo Luciano Filho
+<h1 align="center">Marcelo Luciano Filho</h1>
+<p align="center">
+  DevOps / SRE em evolução • Infraestrutura Linux • Automação
+</p>
 
-Infraestrutura Linux • Automação • Docker • PostgreSQL • IA aplicada a operações
+---
 
-Atuo na sustentação de ambientes Linux críticos e na estruturação de operações técnicas por meio de automação (Python/SQL) e organização de conhecimento técnico.
+## Sobre mim
 
-Meu foco é garantir previsibilidade operacional, reduzir tempo de diagnóstico e eliminar dependência de conhecimento informal.
+Profissional com experiência prática em infraestrutura Linux e suporte a ambientes críticos, atualmente em transição e aprofundamento na área de DevOps e Site Reliability Engineering (SRE).
 
-## Principais Competências
+Tenho foco em:
 
-**Infraestrutura & Operações**
-- Linux (Debian/CentOS)
-- Redes Seguras (OpenVPN, WireGuard, SSH)
+- Troubleshooting estruturado
+- Redução de MTTR
+- Padronização operacional
+- Automação com Python
+- Fundamentos de SLO, observabilidade e CI/CD
+
+Busco evoluir continuamente em confiabilidade, automação e engenharia de plataforma.
+
+---
+
+## Stack Atual
+
+### Infraestrutura
+- Linux (Debian / CentOS)
 - Docker
 - PostgreSQL
-- RabbitMQ
+- Redes (OpenVPN, WireGuard, SSH)
+- Monitoramento e análise de logs
 
-**Automação & Desenvolvimento**
-- Python
+### Automação
+- Python (scripts operacionais)
 - SQL
-- Scripts de diagnóstico
 - Git / Versionamento
+- Conceitos de CI/CD
 
-**Estruturação Técnica & IA**
-- Engenharia de Prompts aplicada à documentação
-- Consolidação de base técnica estruturada
-- Padronização de troubleshooting
+### Confiabilidade (em evolução)
+- SLI / SLO / Error Budgets
+- Golden Signals
+- Incident Response (SEV)
+- Postmortem blameless
+- GitOps (conceitos)
 
-## Projetos
+---
 
-- **Portfólio Serverless** — Aplicação React/Vite na Vercel com geração dinâmica de PDF (ATS-friendly).
-- **Automação Operacional com Python** — Scripts voltados para diagnóstico e padronização técnica.
-- **Aplicação SaaS (GymUp)** — Plataforma React/Firebase com persistência em tempo real.
+## Projetos Relevantes
+
+### Ops Knowledge Base
+Repositório estruturado com fundamentos de SRE, runbooks, troubleshooting Linux, SLO e CI/CD.
+
+### Portfólio Serverless
+Aplicação React/Vite hospedada na Vercel com geração dinâmica de PDF.
+
+### GymUp (SaaS)
+Aplicação React + Firebase com gerenciamento de estado complexo e persistência em tempo real.
+
+---
+
+## Objetivo Profissional
+
+Consolidar minha transição para DevOps / SRE, aprofundando conhecimentos em:
+
+- Observabilidade
+- CI/CD pipelines
+- Infraestrutura como Código
+- Kubernetes
+- Engenharia de confiabilidade
+
+---
 
 ## Contato
 
