@@ -1,16 +1,18 @@
-## Hi there 👋
+# Marcelo Luciano Filho
 
-<!--
-**MarceloLucianoF/MarceloLucianoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infraestrutura Linux • Automação • Docker • Dados (SQL/PostgreSQL) • IA aplicada a operações
 
-Here are some ideas to get you started:
+Atuo na sustentação e melhoria de ambientes Linux críticos, automatizando rotinas e estruturando conhecimento técnico para reduzir variabilidade operacional e acelerar diagnóstico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Destaques
+- Linux (Debian/CentOS) • Docker • PostgreSQL
+- Scripts de diagnóstico e automações (Python/SQL)
+- Padronização de troubleshooting e documentação técnica
+
+## Projetos em destaque
+- **GymUp (SaaS / React + Firebase)** — plataforma para gestão de treinos e alunos
+- **Automação & Documentação (IA aplicada)** — padronização de fluxos e base técnica estruturada (sem dados sensíveis)
+
+## Contato
+- Portfólio: https://portfolio-marcelo-filho.vercel.app/
+- LinkedIn: (seu link)
