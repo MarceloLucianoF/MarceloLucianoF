@@ -35,5 +35,5 @@ Meu foco é garantir previsibilidade operacional, reduzir tempo de diagnóstico 
 ## Contato
 
 - Portfólio: https://portfolio-marcelo-filho.vercel.app/
-- LinkedIn: /in/marcelo-luciano-filho
+- LinkedIn: https://www.linkedin.com/in/marcelo-luciano-filho/
 - E-mail: marceloluciano30@gmail.com
